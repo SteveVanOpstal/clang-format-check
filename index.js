@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+'use strict';
+
 const clangformat = require('clang-format');
 const spawn = require('child_process').spawnSync;
 const process = require('process');
