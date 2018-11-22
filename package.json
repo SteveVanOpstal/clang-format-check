@@ -1,0 +1,19 @@
+{
+  "name": "check-clang-format",
+  "version": "1.0.0",
+  "description": "husky pre-commit clang-format hook",
+  "main": "index.js",
+  "dependencies": {
+    "clang-format": "^1.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveVanOpstal/check-clang-format.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveVanOpstal/check-clang-format/issues"
+  },
+  "homepage": "https://github.com/SteveVanOpstal/check-clang-format#readme"
+}
