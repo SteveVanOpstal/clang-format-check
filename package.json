@@ -1,6 +1,6 @@
 {
   "name": "clang-format-check",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "husky pre-commit clang-format hook",
   "main": "index.js",
   "dependencies": {
