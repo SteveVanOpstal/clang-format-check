@@ -1,10 +1,13 @@
 {
   "name": "clang-format-check",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "husky pre-commit clang-format hook",
   "main": "index.js",
   "dependencies": {
     "clang-format": "^1.2.4"
+  },
+  "bin": {
+    "clang-format-check": "index.js"
   },
   "repository": {
     "type": "git",
